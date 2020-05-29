@@ -1,0 +1,382 @@
+{
+	"studenti": [
+		{
+			"id": "student#1",
+			"inicijalni": 47,
+			"zavrsni": 32,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#2",
+			"inicijalni": 61,
+			"zavrsni": 73,
+			"cheated": true,
+			"type": "Chrome"
+		},
+		{
+			"id": "student#3",
+			"inicijalni": 33,
+			"zavrsni": 70,
+			"cheated": true,
+			"type": "Firefox/Opera"
+		},
+		{
+			"id": "student#4",
+			"inicijalni": 56,
+			"zavrsni": 46,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#5",
+			"inicijalni": 61,
+			"zavrsni": 51,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#6",
+			"inicijalni": 39,
+			"zavrsni": 5,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#7",
+			"inicijalni": 56,
+			"zavrsni": 59,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#8",
+			"inicijalni": 44,
+			"zavrsni": 91,
+			"cheated": true,
+			"type": "Firefox/Opera"
+		},
+		{
+			"id": "student#9",
+			"inicijalni": 42,
+			"zavrsni": 35,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#10",
+			"inicijalni": 39,
+			"zavrsni": 49,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#11",
+			"inicijalni": 31,
+			"zavrsni": 49,
+			"cheated": true,
+			"type": "Firefox/Opera"
+		},
+		{
+			"id": "student#12",
+			"inicijalni": 50,
+			"zavrsni": 62,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#13",
+			"inicijalni": 42,
+			"zavrsni": 30,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#14",
+			"inicijalni": 77,
+			"zavrsni": 81,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#15",
+			"inicijalni": 31,
+			"zavrsni": 43,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#16",
+			"inicijalni": 53,
+			"zavrsni": 43,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#17",
+			"inicijalni": 64,
+			"zavrsni": 39,
+			"cheated": true,
+			"type": "Firefox/Opera"
+		},
+		{
+			"id": "student#18",
+			"inicijalni": 33,
+			"zavrsni": 27,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#19",
+			"inicijalni": 31,
+			"zavrsni": 76,
+			"cheated": true,
+			"type": "Chrome"
+		},
+		{
+			"id": "student#20",
+			"inicijalni": 64,
+			"zavrsni": 57,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#21",
+			"inicijalni": 58,
+			"zavrsni": 38,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#22",
+			"inicijalni": 44,
+			"zavrsni": 38,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#23",
+			"inicijalni": 8,
+			"zavrsni": 51,
+			"cheated": true,
+			"type": "Firefox/Opera"
+		},
+		{
+			"id": "student#24",
+			"inicijalni": 50,
+			"zavrsni": 57,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#25",
+			"inicijalni": 69,
+			"zavrsni": 43,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#26",
+			"inicijalni": 33,
+			"zavrsni": 16,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#27",
+			"inicijalni": 64,
+			"zavrsni": 35,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#28",
+			"inicijalni": 56,
+			"zavrsni": 76,
+			"cheated": true,
+			"type": "Chrome"
+		},
+		{
+			"id": "student#29",
+			"inicijalni": 36,
+			"zavrsni": 26,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#30",
+			"inicijalni": 61,
+			"zavrsni": 57,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#31",
+			"inicijalni": 25,
+			"zavrsni": 76,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#32",
+			"inicijalni": 36,
+			"zavrsni": 82,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#33",
+			"inicijalni": 53,
+			"zavrsni": 41,
+			"cheated": true,
+			"type": "Chrome"
+		},
+		{
+			"id": "student#34",
+			"inicijalni": 44,
+			"zavrsni": 32,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#35",
+			"inicijalni": 50,
+			"zavrsni": 14,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#36",
+			"inicijalni": 36,
+			"zavrsni": 24,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#37",
+			"inicijalni": 28,
+			"zavrsni": 32,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#38",
+			"inicijalni": 33,
+			"zavrsni": 51,
+			"cheated": true,
+			"type": "Chrome"
+		},
+		{
+			"id": "student#39",
+			"inicijalni": 33,
+			"zavrsni": 49,
+			"cheated": true,
+			"type": "Chrome"
+		},
+		{
+			"id": "student#40",
+			"inicijalni": 58,
+			"zavrsni": 68,
+			"cheated": true,
+			"type": "Firefox/Opera"
+		},
+		{
+			"id": "student#41",
+			"inicijalni": 19,
+			"zavrsni": 24,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#42",
+			"inicijalni": 75,
+			"zavrsni": 46,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#43",
+			"inicijalni": 28,
+			"zavrsni": 27,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#44",
+			"inicijalni": 47,
+			"zavrsni": 64,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#45",
+			"inicijalni": 53,
+			"zavrsni": 57,
+			"cheated": true,
+			"type": "Firefox/Opera"
+		},
+		{
+			"id": "student#46",
+			"inicijalni": 61,
+			"zavrsni": 62,
+			"cheated": true,
+			"type": "Chrome"
+		},
+		{
+			"id": "student#47",
+			"inicijalni": 47,
+			"zavrsni": 54,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#48",
+			"inicijalni": 42,
+			"zavrsni": 65,
+			"cheated": true,
+			"type": "Chrome"
+		},
+		{
+			"id": "student#49",
+			"inicijalni": 39,
+			"zavrsni": 49,
+			"cheated": true,
+			"type": "Firefox/Opera"
+		},
+		{
+			"id": "student#50",
+			"inicijalni": 39,
+			"zavrsni": 38,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#51",
+			"inicijalni": 56,
+			"zavrsni": 30,
+			"cheated": false,
+			"type": null
+		},
+		{
+			"id": "student#52",
+			"inicijalni": 19,
+			"zavrsni": 51,
+			"cheated": true,
+			"type": "Mobitel"
+		},
+		{
+			"id": "student#53",
+			"inicijalni": 3,
+			"zavrsni": 27,
+			"cheated": true,
+			"type": "Chrome"
+		},
+		{
+			"id": "student#54",
+			"inicijalni": 47,
+			"zavrsni": 59,
+			"cheated": true,
+			"type": "Firefox/Opera"
+		}
+	]
+}
